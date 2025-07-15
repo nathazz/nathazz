@@ -14,4 +14,11 @@ Full Stack Developer working with modern web technologies. I enjoy building clea
 
 ---
 
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathazz&show_icons=true&hide=issues,contribs&theme=dark&hide_title=true)
+
+
+---
+
 📫 Reach me at: [linkedin.com/in/nathansilva](https://linkedin.com/in/nathansilva)
