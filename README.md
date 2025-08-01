@@ -21,4 +21,4 @@ Full Stack Developer working with modern web technologies. I enjoy building clea
 
 ---
 
-📫 Reach me at: [linkedin.com/in/nathansilva](https://linkedin.com/in/nathansilva)
+📫 Reach me at: [linkedin.com/in/nathansilva](https://linkedin.com/in/nathasg)
