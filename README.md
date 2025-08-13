@@ -1,6 +1,6 @@
 # Hi, I'm Nathan 👋
 
-Full Stack Developer working with modern web technologies. I enjoy building clean, scalable apps with a focus on performance and simplicity.
+Software Developer working with modern web technologies. I enjoy building clean, scalable apps with a focus on performance and simplicity.
 
 ### 🛠 Tech I Use
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
