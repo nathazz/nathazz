@@ -11,7 +11,7 @@
 ║                                                            ║
 ║                   Software Engineer                        ║
 ║                                                            ║
-║   Focus: Performance • Scalability • Clean Architecture    ║
+║   Focus: Performance • Scalability • Maintainability       ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
   </pre>
