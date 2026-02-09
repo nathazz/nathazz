@@ -18,8 +18,7 @@
 
 ##  About Me
 
-I'm a software engineer with experience building reliable and efficient systems, from backend services to modern web applications.  
-I prioritize **maintainability**, **simplicity**, and **well-structured code**.
+I'm a software engineer with experience building reliable and efficient systems, from backend & frontend services to modern web applications. I prioritize **maintainability**, **simplicity**, and **well-structured code**. I don’t stick to just one stack, and I believe there's always something new to learn in the tech industry.
 
 ---
 
@@ -32,17 +31,17 @@ I prioritize **maintainability**, **simplicity**, and **well-structured code**.
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nestjs,express,spring" />
+  <img src="https://skillicons.dev/icons?i=react,nestjs,express,nodejs,spring" />
 </p>
 
-### Backend, Databases & ORM
+### Databases & ORM
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase,prisma" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sequelize,redis,supabase,prisma" />
 </p>
 
-### DevOps & Cloud
+### DevOps & Cloud & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,azure,gcp,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,azure,gcp,cloudflare,rabbitmq,terraform,linux,firebase,git" />
 </p>
 
 ---
