@@ -42,7 +42,7 @@ I'm a software engineer with experience building reliable and efficient systems,
 
 ### DevOps & Cloud & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,azure,gcp,cloudflare,rabbitmq,terraform,linux,firebase,git" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,azure,gcp,cloudflare,rabbitmq,terraform,linux,firebase,git,ubuntu" />
 </p>
 
 ---
