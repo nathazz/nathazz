@@ -9,7 +9,7 @@
 ║   ██║ ╚████║██║  ██║   ██║   ██║  ██║██║  ██║██║ ╚████║    ║
 ║   ╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ║
 ║                                                            ║
-║                   Software Engineer                        ║
+║                   Software Developer                       ║
 ║                                                            ║
 ║   Focus: Performance • Scalability • Maintainability       ║
 ║                                                            ║
