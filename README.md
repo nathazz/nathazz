@@ -9,7 +9,7 @@
 ║   ██║ ╚████║██║  ██║   ██║   ██║  ██║██║  ██║██║ ╚████║    ║
 ║   ╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ║
 ║                                                            ║
-║                   Software Developer                       ║
+║                     Full Stack Dev                         ║
 ║                                                            ║
 ║   Focus: Performance • Scalability • Maintainability       ║
 ║                                                            ║
@@ -19,7 +19,7 @@
 
 ##  About Me
 
-Software Developer with experience building systems in production. Focused on TypeScript/Node.js and Golang, with a strong background in REST APIs, external integrations, and automation across modern cloud infrastructure.
+Full Stack Developer with experience building systems in production. Focused on TypeScript/Node.js and Golang, with a strong background in REST APIs, external integrations, and automation across modern cloud infrastructure.
 
 What I do:
 
